@@ -18,6 +18,7 @@ Technologies:
 - Tkinter 
 - psutil 
 - Matplotlib
+- DB Browser
 
 Usage:
 
@@ -30,4 +31,4 @@ Requirements:
 
 Author:
 
--YttriumV7
+-Rayaan Sheikh 
