@@ -11,14 +11,22 @@ Features:
 - Storage monitoring 
 - Hardware information 
 - Performance graphs of hardware components 
-- Warning indications when the performance of a specific component is worse than the minimum requirements to function
+- Colour indications when the performance of a component is worse than the optimal performance
 
 Technologies: 
 - Python 
-- Tkinter 
+- SQL
+- tkinter 
 - psutil 
-- Matplotlib
+- matplotlib
 - DB Browser
+
+What I learned:
+- GUI development
+- System information collection
+- Debugging
+- Working with Python libraries
+
 
 Usage:
 
