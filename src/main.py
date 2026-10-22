@@ -70,7 +70,7 @@ def seconds_to_human(seconds): #Converts seconds to a simpler format
 ░░░██║░░░██║░░██║██║░░██║╚█████╔╝███████╗
 ░░░╚═╝░░░╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚══════╝
 
-open-source device performance monitoring software by RAYAAN . S
+open-source device performance monitoring software by YttriumV7
 
 """
 
