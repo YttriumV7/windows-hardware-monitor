@@ -2,7 +2,7 @@ CS_PROJECT_2026_-HARDWARE-MONITOR-
 
 Description: 
 
--A python application made to monitor the live performance and return the information of #several hardware components in a computer.
+-A python application made to monitor the live performance and return the information for the main hardware in a computer.
 
 Features:
 
@@ -31,4 +31,4 @@ Requirements:
 
 Author:
 
--Rayaan Sheikh 
+-YttriumV7
